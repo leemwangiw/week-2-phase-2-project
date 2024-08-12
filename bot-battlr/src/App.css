@@ -1,0 +1,97 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.bot-collection,
+.your-bot-army {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-bottom: 20px;
+}
+
+.bot-card {
+  background-color: #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  width: 450px; /* Adjusted width for desktop */
+  padding: 20px; /* Adjusted padding */
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.bot-card:hover {
+  transform: scale(1.05);
+}
+
+.bot-card img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px; /* Adjusted margin */
+}
+
+.bot-card h3 {
+  font-size: 1.5em; /* Adjusted font size */
+  color: #333;
+}
+
+.bot-card p {
+  margin: 8px 0; /* Adjusted margin */
+  font-size: 1em;
+  color: #555;
+}
+
+.bot-details p {
+  margin: 5px 0; /* Adjusted margin */
+  font-size: 0.9em; /* Adjusted font size */
+  color: #666;
+}
+
+.bot-actions {
+  display: flex;
+  justify-content: space-between; /* Changed to space-between for more space */
+  margin-top: 10px; /* Adjusted margin */
+}
+
+.bot-actions button {
+  padding: 10px 15px; /* Adjusted padding */
+  border: none;
+  border-radius: 4px;
+  font-size: 1em; /* Adjusted font size */
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.bot-actions button:hover {
+  background-color: #ccc;
+}
+
+.delete-button {
+  background-color: #ff6666;
+  color: white;
+}
+
+.delete-button:hover {
+  background-color: #ff3333;
+}

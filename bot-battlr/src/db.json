@@ -1,0 +1,172 @@
+{
+  "bots": [
+    {
+      "id": 101,
+      "name": "wHz-93",
+      "health": 94,
+      "damage": 20,
+      "armor": 63,
+      "bot_class": "Support",
+      "catchphrase": "1010010101001101100011000111101",
+      "avatar_url": "https://robohash.org/nostrumrepellendustenetur.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.800Z",
+      "updated_at": "2018-10-02T19:55:10.800Z"
+    },
+    {
+      "id": 102,
+      "name": "RyM-66",
+      "health": 86,
+      "damage": 36,
+      "armor": 77,
+      "bot_class": "Medic",
+      "catchphrase": "0110011100000100011110100110011000011001",
+      "avatar_url": "https://robohash.org/quidemconsequaturaut.png?size=300x300&set=set1",
+      "created_at": "2018-10-02T19:55:10.827Z",
+      "updated_at": "2018-10-02T19:55:10.827Z"
+    },
+    {
+      "id": 103,
+      "name": "FxM-34",
+      "health": 78,
+      "damage": 45,
+      "armor": 82,
+      "bot_class": "Assault",
+      "catchphrase": "0101001101010100100010100010110",
+      "avatar_url": "https://robohash.org/repellendusoditnobis.png?size=300x300&set=set1",
+      "created_at": "2018-11-12T10:22:35.500Z",
+      "updated_at": "2018-11-12T10:22:35.500Z"
+    },
+    {
+      "id": 104,
+      "name": "ZtK-82",
+      "health": 91,
+      "damage": 31,
+      "armor": 68,
+      "bot_class": "Defender",
+      "catchphrase": "0011001101110100101001010001100",
+      "avatar_url": "https://robohash.org/aliquamquasconsectetur.png?size=300x300&set=set1",
+      "created_at": "2018-12-05T14:43:20.200Z",
+      "updated_at": "2018-12-05T14:43:20.200Z"
+    },
+    {
+      "id": 105,
+      "name": "JxL-77",
+      "health": 85,
+      "damage": 40,
+      "armor": 70,
+      "bot_class": "Captain",
+      "catchphrase": "1110001010100100110010101101001",
+      "avatar_url": "https://robohash.org/utquaeratet.png?size=300x300&set=set1",
+      "created_at": "2019-01-15T09:54:50.800Z",
+      "updated_at": "2019-01-15T09:54:50.800Z"
+    },
+    {
+      "id": 106,
+      "name": "LrQ-12",
+      "health": 79,
+      "damage": 33,
+      "armor": 60,
+      "bot_class": "Witch",
+      "catchphrase": "1001010100110010101100010010110",
+      "avatar_url": "https://robohash.org/suscipitquaerataspernatur.png?size=300x300&set=set1",
+      "created_at": "2019-02-20T11:33:15.600Z",
+      "updated_at": "2019-02-20T11:33:15.600Z"
+    },
+    {
+      "id": 107,
+      "name": "RtM-23",
+      "health": 88,
+      "damage": 29,
+      "armor": 72,
+      "bot_class": "Support",
+      "catchphrase": "0101010100111001011010000101110",
+      "avatar_url": "https://robohash.org/explicaboinciduntnatus.png?size=300x300&set=set1",
+      "created_at": "2019-03-08T16:12:25.700Z",
+      "updated_at": "2019-03-08T16:12:25.700Z"
+    },
+    {
+      "id": 108,
+      "name": "PyQ-91",
+      "health": 90,
+      "damage": 27,
+      "armor": 85,
+      "bot_class": "Medic",
+      "catchphrase": "0111101001010101000101101101010",
+      "avatar_url": "https://robohash.org/reprehenderitveritatisfugit.png?size=300x300&set=set1",
+      "created_at": "2019-04-21T13:25:30.100Z",
+      "updated_at": "2019-04-21T13:25:30.100Z"
+    },
+    {
+      "id": 109,
+      "name": "NsT-59",
+      "health": 83,
+      "damage": 41,
+      "armor": 66,
+      "bot_class": "Assault",
+      "catchphrase": "0011001101011000101100010101010",
+      "avatar_url": "https://robohash.org/culpasitvel.png?size=300x300&set=set1",
+      "created_at": "2019-05-30T18:40:45.300Z",
+      "updated_at": "2019-05-30T18:40:45.300Z"
+    },
+    {
+      "id": 110,
+      "name": "FkN-47",
+      "health": 95,
+      "damage": 32,
+      "armor": 80,
+      "bot_class": "Defender",
+      "catchphrase": "1100101101000100011011100010100",
+      "avatar_url": "https://robohash.org/velitautnobis.png?size=300x300&set=set1",
+      "created_at": "2019-06-22T14:50:10.600Z",
+      "updated_at": "2019-06-22T14:50:10.600Z"
+    },
+    {
+      "id": 111,
+      "name": "MjP-18",
+      "health": 87,
+      "damage": 38,
+      "armor": 75,
+      "bot_class": "Captain",
+      "catchphrase": "0010011001010100101100011100001",
+      "avatar_url": "https://robohash.org/estvelsit.png?size=300x300&set=set1",
+      "created_at": "2019-07-19T12:10:35.400Z",
+      "updated_at": "2019-07-19T12:10:35.400Z"
+    },
+    {
+      "id": 112,
+      "name": "DkH-66",
+      "health": 92,
+      "damage": 35,
+      "armor": 74,
+      "bot_class": "Witch",
+      "catchphrase": "1011001100101001011110100011001",
+      "avatar_url": "https://robohash.org/reprehenderitvelitnon.png?size=300x300&set=set1",
+      "created_at": "2019-08-15T15:20:45.800Z",
+      "updated_at": "2019-08-15T15:20:45.800Z"
+    },
+    {
+      "id": 113,
+      "name": "PvQ-92",
+      "health": 80,
+      "damage": 40,
+      "armor": 67,
+      "bot_class": "Support",
+      "catchphrase": "0100101001110010010101100111010",
+      "avatar_url": "https://robohash.org/necessitatibusnonlaboriosam.png?size=300x300&set=set1",
+      "created_at": "2019-09-28T11:33:25.900Z",
+      "updated_at": "2019-09-28T11:33:25.900Z"
+    },
+    {
+      "id": 114,
+      "name": "TgR-54",
+      "health": 84,
+      "damage": 29,
+      "armor": 79,
+      "bot_class": "Medic",
+      "catchphrase": "1001010100010101011000100110110",
+      "avatar_url": "https://robohash.org/utprovidentvitae.png?size=300x300&set=set1",
+      "created_at": "2019-10-05T09:55:15.400Z",
+      "updated_at": "2019-10-05T09:55:15.400Z"
+    }
+  ]
+}
